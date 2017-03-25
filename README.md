@@ -1,4 +1,4 @@
-# Safari-History-Extracter
+# Safari-History-Extractor
 Php daemon running on macOS to send out history to defined server.
 
 ### Disclaimer
