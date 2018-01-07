@@ -25,5 +25,5 @@ chmod 777 .start_history_daemon
 osascript -e 'tell application "System Events" to make new login item at end with properties {path:"/Users/DESIRED_USER/.start_history_daemon", name:"Service Name", hidden:true}'
 ```
 
-After rebooting data should start flowing to desired server.
+After rebooting data should start flowing to defined server.
 
