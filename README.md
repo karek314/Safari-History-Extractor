@@ -2,7 +2,7 @@
 Php daemon running on macOS to send out history to defined server.
 
 ### Disclaimer
-It has been developed to analyse internet browsing behaviours. Every participant was aware of that and agreed to take part in research. However it can be possibly used to spying or things like that. So as disclaimer, this should not be used for any illegal activity. It's only for educational purposes and i’m not responsible for inappropriate usage of this software.
+It has been developed to analyse internet browsing behaviours. Every participant was aware of that and agreed to take part in research. It's only for educational purposes and i’m not responsible for inappropriate usage of this software.
 
 ## Usage
 Copy <b>remote_server_endpoint.php</b> to server, define table, database credentials and create table with fields
